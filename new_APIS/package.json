@@ -1,0 +1,14 @@
+{
+  "name": "new_apis",
+  "version": "1.0.0",
+  "description": "request using apis",
+  "main": "request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
